@@ -1,5 +1,5 @@
 # Rank
-🌠 The Rank program is based on a single number and find ranking between digit;)
+🌠 The Rank program is based on a single number and find ranking between digit ;)
 
 Eg1. NUMBER IS:441
 
