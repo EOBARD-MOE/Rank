@@ -2,7 +2,7 @@
 #include<limits.h>
 int main()
 {
-  int num,rem,max=INT_MIN,temp,count=0,rank=0,rank2=0,extra,c=0;
+  int num,rem,max=INT_MIN,temp,count=0,extra,c=0;
   printf("ENTER THE NUMBER:");
   scanf("%d",&num);
   temp=num;
