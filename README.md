@@ -1,15 +1,14 @@
 # Rank
-🌠 The Rank program is based on a single number and find ranking betweeen digit
+🌠 The Rank program is based on a single number and find ranking betweeen digit;)
 
-Eg. 441
-    4- 1st Rank
-    4- 1st Rank
-    1- 3rd Rank
+Eg1. NUMBER IS:441
 
-If Digit will different 
+    1st Rank is:4
+    1st Rank is:4
+    3rd Rank is:1
 
-Eg. 715
+Eg2. NUMBER IS:715
 
-    7- 1st Rank
-    5- 2nd Rank
-    1- 3rd Rank
+    1st Rank is:7
+    2nd Rank is:5
+    3rd Rank is:1
